@@ -1,6 +1,1 @@
-say hi
-say hello
-say bye
-say juery
-say me
-say new
+第一发
