@@ -3,3 +3,4 @@ say hello
 say bye
 say juery
 say me
+say new
