@@ -1,1 +1,2 @@
 随时随地从不同终端push信息到github,树莓派每小时从github pull最新的信息，每天的00：00：00整点转发笔记和文摘
+Kindle Mate是运行在Windows计算机上管理Kindle设备内容的辅助工具。通过KindleMate，你可以在计算机侧同步、浏览管理Kindle设备上的内容，回顾阅读笔记或进行英语生词本的整合学习。另外，KindleMate是免费软件，你可以永久免费使用，无任何功能与时间限制。
